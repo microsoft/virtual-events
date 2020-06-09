@@ -5,7 +5,7 @@ This Virtual Event Playbook was created to help individuals when planning virtua
 ## Transitioning to Digital Events 
 As the organizers and contributors to impactful events and experiences, we must take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19 and the desire to globally scale. The virtual event experience can be enhanced through scalable content, inclusion and accessibility, process and strategy alignment, branding, and demand generation. 
 
-**Please note that all events are not one-size-fits-all. Elements may require slight modification based on the audience, content, and desired outcome from the event. This playbook represents a set of strategies that have been found successful.*** 
+**Please note that all events are not one-size-fits-all. Elements may require slight modification based on the audience, content, and desired outcome from the event. This playbook represents a set of strategies that have been found successful.**
 
 ## Key Digital Event Elements 
 **Core Content**: Content used to inform, inspire and educate the audience. These are video-focused experiences like keynotes and sessions with simple interactive moments like polling and chat. 
@@ -20,10 +20,10 @@ As the organizers and contributors to impactful events and experiences, we must 
 **Event Registration**: An inclusive, accessible, and informative registration process to communicate the desired audience, content, and event logistics is key in generating attendance and low attrition.  
 
 Popular and widely used examples include: 
-* Meetup: Offer workshops, presentations, and networking events over Meetup. Meetup has a very large, active community of users that can be leveraged to grow demand for your event. 
-* Eventbrite: Social platform for hosting and registering for events. One of the most popular Meetup alternatives. Easy and quick steps to create an event, set up pricing and logistics, and then share on other social media platforms. Audiences can use Eventbrite’s search engine to find events, but the organizers need to be proactive in their demand generation strategy.
-* LinkedIn Events: LinkedIn members and page owners can use the LinkedIn Events feature to find and build communities, generate interest in various events, and create long-term relationships with community members. 
-* SplashThat: Event marketing and registration site geared towards companies and organizations that want to measure, manage, and market their various event offerings on one platform. 
+* [Meetup](https://www.meetup.com): Offer workshops, presentations, and networking events over Meetup. Meetup has a very large, active community of users that can be leveraged to grow demand for your event. 
+* [Eventbrite](https://www.eventbrite.com/l/online-event-resources/?mkwid=UtKYFHIu_dc&pcrid=79989571666430&pkw=eventbrite&pmt=be&plc&_bk=eventbrite&_bt=79989571666430&_bm=e&_bn=o&msclkid=ab20c0317bbb173229d69eeff0c24676&utm_source=bing&utm_medium=cpc&utm_campaign=Croud_US_SEM_EN_Brand%20Core_Exact&utm_term=eventbrite&utm_content=Core&gclid=CNiW_an08ukCFYNjfgodDK0O6A&gclsrc=ds): Social platform for hosting and registering for events. One of the most popular Meetup alternatives. Easy and quick steps to create an event, set up pricing and logistics, and then share on other social media platforms. Audiences can use Eventbrite’s search engine to find events, but the organizers need to be proactive in their demand generation strategy.
+* [LinkedIn Events](https://www.linkedin.com/help/linkedin/answer/98189/linkedin-events-overview?lang=en): LinkedIn members and page owners can use the LinkedIn Events feature to find and build communities, generate interest in various events, and create long-term relationships with community members. 
+* [SplashThat](https://splashthat.com/): Event marketing and registration site geared towards companies and organizations that want to measure, manage, and market their various event offerings on one platform. 
 
 **Demand Generation**: A successful demand generation strategy drives people to register and attend an event, where we deliver a phenomenal experience that motivates them to engage with us (or our content) afterwards. This positive end-to-end experience increases their propensity to attend future events and share with friends and colleagues. 
 
@@ -119,9 +119,9 @@ Quick Facts:
 
 Resources: 
 
-* Microsoft Teams Live Events 
-* Teams Live Event Organizer Checklist 
-* Invite Attendees to a Teams Live Event 
+* [Microsoft Teams Live Events](https://docs.microsoft.com/en-us/microsoftteams/teams-live-events/what-are-teams-live-events)
+* [Teams Live Event Organizer Checklist](https://support.office.com/en-us/article/teams-live-event-organizer-checklist-44a80886-0fd9-42e5-8e7c-836c798096f8)
+* [Invite Attendees to a Teams Live Event](https://support.microsoft.com/en-us/office/invite-attendees-to-a-teams-live-event-99c34ccc-296d-40c5-b06c-b0afbc6674f8)
 
 **Teams Meetings**: Users can broadcast video and meeting content to a small to medium-sized audience for up to 12 hours. The attendees enjoy an interactive experience to watch live or recorded content with open chat. Moderators must be very attentive in this setting, since attendees can quickly communicate back and forth and conversations can go quite fast, unmanaged.  
 
@@ -135,27 +135,27 @@ Quick Facts:
 
 Resources:
 
-* Microsoft Teams Meetings 
+* [Microsoft Teams Meetings](https://docs.microsoft.com/en-us/microsoftteams/tutorial-meetings-in-teams)
 
 Additional Platforms:
 
-* Twitch - Millions of viewers log in daily to chat, interact, and make entertainment together. Great platform to live stream and has a growing developer audience when primarily was a gaming platform. 
-* Mixer - Similar to Twitch and a Microsoft-owned platform. Great platform to live stream and has a growing developer audience when primarily was a gaming platform. Benefit over Twitch is that the streamers and audience aren’t separated by a delay, creating a more interactive, engaging experience. It is much faster than both Twitch and YouTube Gaming for streaming. 
-* Zoom - Widely recognized platform for community driven experiences – live chat, video and audio attendee use, and known for reliability. Lots of versatility for meetings, webinars, and conferences/breakouts, however, the capacity if 1,000 video participants and 10,000 viewers.  
-* On24 - Large amount of engagement tools including embedded media player, information, live chat, slide/presentation view, and resource lists. Really interesting and engaging user experience when attempting to “recreate” the live experience in a digital landscape.  
-* Discord - Similar user interface to Slack and a great addition to other platforms when looking to create community experiences within text and video communication. Discord is targeted towards gamers and much more supportive towards voice and video interaction. 
-* StreamElements - Platform for live streamers using Twitch and YouTube to enhance the viewer experience. It includes overlay management, chatbots, tipping, alerts, and loyalty. 
-* YouTube Live - Videos tend to rank relatively high when searching on Google, Bing, and Yahoo. The searchability and SEO is a top benefit, as well as the ability to send an email and push notifications in the app.  
-* Facebook Live - Not as easily found as YouTube streams and has lower quality and length capabilities. However, since Facebook is the most popular social media platform, you can leverage current audiences to promote engagement and easier to begin demand generation efforts. Additionally, it has more notifications built in to remind you audience that the stream is coming up in 1 hour, 20 minutes, and 1 minute vs. YouTube’s email and push notifications. Great platform if just starting out! 
-* Instagram Live - Many people prefer Instagram over Facebook; therefore, the demographic is a bit more visually oriented and has a younger audience. A disadvantage though is that you can only go live with the mobile app, therefore, you need to prepare on how to manage that when filming. 
-* Twitter/Periscope Live: Alerts your followers when you go live and airs your livestream on the Twitter timeline. Anyone can view the stream without having to register, which is different from other platforms. However, you do have to use the Twitter mobile application to go live. 
-* Hopin.To: Various ways to connect including stages, one-on-ones, sessions, and expos. Provides the solution of not needing to use multiple platforms, since it provides everything to host a full event experience in a digital landscape. Appears to be one of the best platforms when trying to replicate a live experience when reviewing their “watercooler” offerings and expo booths.  
-* AltspaceVR: Virtual reality experience to host live events and connect with members of the community. Operates both with and without a headset. Owned by Microsoft and part of the Windows Mixed Reality experience and unique offering to audience members to have an avatar, attend events, and meet community members all around the globe. 
+* [Twitch](https://microsoft.sharepoint.com/:w:/t/CloudDevAdvocacy/EbGeOy4fvnhBtIHYEmWfs78BDMq86uBudJnDrj27VnCZfw?e=ptxuRX) - Millions of viewers log in daily to chat, interact, and make entertainment together. Great platform to live stream and has a growing developer audience when primarily was a gaming platform. 
+* [Mixer](https://mixer.com/dashboard/onboarding/newToStreaming) - Similar to Twitch and a Microsoft-owned platform. Great platform to live stream and has a growing developer audience when primarily was a gaming platform. Benefit over Twitch is that the streamers and audience aren’t separated by a delay, creating a more interactive, engaging experience. It is much faster than both Twitch and YouTube Gaming for streaming. 
+* [Zoom](https://restream.io/blog/how-to-multistream-with-zoom/#zoom-basic-account) - Widely recognized platform for community driven experiences – live chat, video and audio attendee use, and known for reliability. Lots of versatility for meetings, webinars, and conferences/breakouts, however, the capacity if 1,000 video participants and 10,000 viewers.  
+* [On24](https://www.on24.com/) - Large amount of engagement tools including embedded media player, information, live chat, slide/presentation view, and resource lists. Really interesting and engaging user experience when attempting to “recreate” the live experience in a digital landscape. 
+* [Discord](https://discord.com/) - Similar user interface to Slack and a great addition to other platforms when looking to create community experiences within text and video communication. Discord is targeted towards gamers and much more supportive towards voice and video interaction. 
+* [StreamElements](https://docs.streamelements.com/docs) - Platform for live streamers using Twitch and YouTube to enhance the viewer experience. It includes overlay management, chatbots, tipping, alerts, and loyalty. 
+* [YouTube Live](https://restream.io/blog/reach-wide-audiences-with-a-youtube-broadcast/) - Videos tend to rank relatively high when searching on Google, Bing, and Yahoo. The searchability and SEO is a top benefit, as well as the ability to send an email and push notifications in the app.  
+* [Facebook Live](https://restream.io/blog/the-ultimate-guide-to-facebook-live-streaming/) - Not as easily found as YouTube streams and has lower quality and length capabilities. However, since Facebook is the most popular social media platform, you can leverage current audiences to promote engagement and easier to begin demand generation efforts. Additionally, it has more notifications built in to remind you audience that the stream is coming up in 1 hour, 20 minutes, and 1 minute vs. YouTube’s email and push notifications. Great platform if just starting out! 
+* [Instagram Live](https://help.instagram.com/292478487812558) - Many people prefer Instagram over Facebook; therefore, the demographic is a bit more visually oriented and has a younger audience. A disadvantage though is that you can only go live with the mobile app, therefore, you need to prepare on how to manage that when filming. 
+* [Twitter/Periscope Live](https://help.twitter.com/en/using-twitter/twitter-live): Alerts your followers when you go live and airs your livestream on the Twitter timeline. Anyone can view the stream without having to register, which is different from other platforms. However, you do have to use the Twitter mobile application to go live. 
+* [Hopin.To](https://hopin.to/): Various ways to connect including stages, one-on-ones, sessions, and expos. Provides the solution of not needing to use multiple platforms, since it provides everything to host a full event experience in a digital landscape. Appears to be one of the best platforms when trying to replicate a live experience when reviewing their “watercooler” offerings and expo booths.  
+* [AltspaceVR](https://altvr.com/): Virtual reality experience to host live events and connect with members of the community. Operates both with and without a headset. Owned by Microsoft and part of the Windows Mixed Reality experience and unique offering to audience members to have an avatar, attend events, and meet community members all around the globe. 
 
 ## Additional Non-Microsoft Resources
 
-* 3P article on using Teams for virtual labs and hackathons  
-* Meetup.com blog on hosting online events  
-* Live streaming set up from Jeff Fritz (link) and James Montemagno (link) 
-* Closed Captioning OBS plugin using Google Speech Recognition (link) 
-* Best Streaming Software: OBS Studio, Streamlabs, StreamYard and more 
+* 3P article on using Teams for virtual labs and hackathons [(link)](https://www.robertjgates.com/use-microsoft-teams-to-run-a-virtual-lab-or-virtual-hackathon-event/)
+* Meetup.com blog on hosting online events [(link)](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/)
+* Live streaming set up from Jeff Fritz [(link)](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/) and James Montemagno [(link)](https://gist.github.com/jamesmontemagno/72f513bff91678b2c0130a4427f21f0d)
+* Closed Captioning OBS plugin using Google Speech Recognition [(link)](https://github.com/ratwithacompiler/OBS-captions-plugin)
+* [Best Streaming Software](https://www.epiphan.com/blog/best-streaming-software-2019/). Examples include: [OBS Studio](https://obsproject.com/), [Streamlabs](https://streamlabs.com/), and [StreamYard](https://streamyard.com/)
