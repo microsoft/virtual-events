@@ -4,7 +4,7 @@ As organizers and contributors of some of the technology industry's most impactf
   
 ## Usage
 
-Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
+Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./template-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
 
 ## Why
 
