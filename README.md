@@ -12,9 +12,9 @@ COVID-19 specifically has caused an enormous amount of disruption in our daily l
 
 ## What's Included
 
-* [Code-of-Conduct.md](./virtual-event-code-of-conduct.md)
+* [virtual-event-code-of-conduct.md](./virtual-event-code-of-conduct.md)
   * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
-* [Playbook.md](./playbook.md)
+* [playbook.md](./playbook.md)
   * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
 
 ## Contributing
