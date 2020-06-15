@@ -4,7 +4,7 @@ As organizers and contributors of some of the technology industry's most impactf
   
 ## Usage
 
-Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./template-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
+Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./virtual-event-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
 
 ## Why
 
@@ -12,7 +12,7 @@ COVID-19 specifically has caused an enormous amount of disruption in our daily l
 
 ## What's Included
 
-* [Code-of-Conduct.md](./code-of-conduct.md)
+* [Code-of-Conduct.md](./virtual-event-code-of-conduct.md)
   * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
 * [Playbook.md](./playbook.md)
   * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
