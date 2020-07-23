@@ -170,7 +170,7 @@ Resources:
 
  * [Discord](https://discord.com/new): Preferred for chat experience and watercooler. Similar user interface to Slack and a great addition to other platforms when looking to create community experiences within text and video communication. Not the best for mobile users due to bandwidth.  
  
-**Additional Platforms**
+**Additional Platforms:**
 
 * [Zoom](https://restream.io/blog/how-to-multistream-with-zoom/#zoom-basic-account) - Widely recognized platform for community driven experiences – live chat, video and audio attendee use, and known for reliability. Lots of versatility for meetings, webinars, and conferences/breakouts, however, the capacity if 1,000 video participants and 10,000 viewers.  
 * [On24](https://www.on24.com/) - Large amount of engagement tools including embedded media player, information, live chat, slide/presentation view, and resource lists. Really interesting and engaging user experience when attempting to “recreate” the live experience in a digital landscape. 
