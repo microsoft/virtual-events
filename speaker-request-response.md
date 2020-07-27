@@ -20,27 +20,26 @@ First impressions and representation matter! Though what’s visible from a spea
   * If Code of Conduct violations or exclusive incidents occur, reports should be directed to your designated team and thoroughly documented. This documentation can be used internally for decisions to partner again or actions required by the organizers before partnering again in the future. 
 
 ## Email Draft 
-Dear [Requestor], 
+Dear [Insert: Requestor Name], 
 
-Thank you for inviting me to [speak, participate, sponsor, partner] at [conference]. As I review my availability and your event objectives, please note that the [Microsoft Team] requires the following elements to be in place prior to participating in any event. 
+Thank you for inviting me to [Insert: Requested Action (example: speak, participate, sponsor, partner)] at [Insert: Conference Name]. As I review my availability and your event objectives, please note that the [Insert: Your Speaker Team] requires the following elements to be in place prior to participating in any event. 
 
 Standard Event Expectations include:  
 1. An active, enforced, and public facing Code of Conduct. 
 2. An objective and inclusive Call for Proposals (CFP) process if applicable. 
 3. Broad demographic and platform representation across the speaker lineup and audience. 
 
-As members of the technology industry and community, we must partner to ensure that diversity and inclusion is the number one priority. **Please respond with your commitment towards achieving the above expectations and any relevant examples and/or links.** Here are additional resources that may be helpful. Please know that I or someone from my team is always available to share ideas that can help you to create an authentically inclusive and meaningful experience for your speakers and audience.  
+As members of the technology industry and community, we must partner to ensure that diversity and inclusion is the number one priority. **Please respond with your commitment towards achieving the above expectations and any relevant examples and/or links.** Here are [additional resources](https://github.com/microsoft/virtual-events/blob/main/inclusive-planning-process.md) that may be helpful. Please know that I or someone from my team is always available to share ideas that can help you to create an authentically inclusive and meaningful experience for your speakers and audience.  
 
-I look forward to learning more about your D&I commitments and will follow up on next steps if my availability allows. 
+I look forward to learning more about your Diversity & Inclusion commitments and will follow up on next steps if my availability allows. 
 
 Thank you! 
 
-[Name] 
+[Insert: Your Name] 
 
 ## Final Review 
-After the email response has been sent, please take the time to confirm the following to your own personal satisfaction. If you feel the requestor is committed to the Standard Event Expectations and the below have been addressed; your participation reflects your confidence that the event will represent Microsoft’s commitments outlined here. 
-
-* Active and public-facing Code of Conduct, as well as reporting mechanisms and incident resolution practices. This is often displayed as a team and/or specific members of the organizing committee being referenced as the “owners” of CoC enforcement.  
+After the email response has been sent, please take the time to confirm the following to your own personal satisfaction. If you feel the requestor is committed to the Standard Event Expectations [found here](https://github.com/microsoft/virtual-events/blob/main/playbook.md) and the below have been addressed; your participation reflects your confidence that the event will represent the commitments outlined within this document. 
+* Active and public-facing Code of Conduct, as well as reporting mechanisms and incident resolution practices. This is often displayed as a team and/or specific members of the organizing committee being referenced as the “owners” of Code of Conduct enforcement.  
 * The organizer responds to the email with key examples of how they have met the standard event requirements. 
 * Publicly share your involvement with members of your team to ensure any issues have had time to be addressed. 
 * After committing, speaking, and/or attending the event, document your feedback with your team to ensure that the requirements were truly met. Measure your future involvement based on their commitment towards diversity and inclusion specifically. 
