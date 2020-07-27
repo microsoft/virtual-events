@@ -16,6 +16,10 @@ COVID-19 specifically has caused an enormous amount of disruption in our daily l
   * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
 * [playbook.md](./playbook.md)
   * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
+* [inclusive-planning-process.md](https://github.com/microsoft/virtual-events/blob/main/inclusive-planning-process.md)
+  * Hosting an inclusive event requires inclusivity intentionally woven throughout the entire event process, especially from the beginning. Utilize this guide to ensure you have a diverse planning committee, inviting diverse speakers and participants, and constantly finding ways to evolve and improve.
+* [speaker-request-response.md](https://github.com/microsoft/virtual-events/blob/main/speaker-request-response.md)
+  * Virtual events are being organized faster and diversity and inclusion is receiving less prioritization. Included are tools for each speaker and requested participant to ensure diversity and inclusion standards are maintained. Utilize a drafted email and suggested steps that can be sent in response to speaking, sponsoring, and participating requests. 
 
 ## Contributing
 
