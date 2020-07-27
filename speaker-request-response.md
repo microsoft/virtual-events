@@ -16,7 +16,7 @@ First impressions and representation matter! Though what’s visible from a spea
   * Personalize the highlighted portions at the very minimum 
 * Provide inclusive virtual event resources located on [Virtual Events Github Repo](https://github.com/microsoft/virtual-events) if needed 
 * Review and verify their commitment toward diversity and inclusion on website and outward engagement within the community (See Final Review section) 
-* Communicate the event’s commitment toward diversity and inclusion post event with applicable members of your internal team and various Code of Conduct/D&I v-team(s) to document for future awareness. 
+* Communicate the event’s commitment toward diversity and inclusion post event with applicable members of your internal team and various Code of Conduct/D&I team(s) to document for future awareness. 
   * If Code of Conduct violations or exclusive incidents occur, reports should be directed to your designated team and thoroughly documented. This documentation can be used internally for decisions to partner again or actions required by the organizers before partnering again in the future. 
 
 ## Email Draft 
