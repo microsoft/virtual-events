@@ -1,38 +1,39 @@
-# Code of Conduct for Virtual Events
+# 온라인 이벤트를 위한 행동 강령
 
-## For Organizers
+## 행사 주최자/진행자를 위하여
 
-As event and experience organizers, we seek to provide a **respectful, friendly, professional experience for everyone, regardless of gender, sexual orientation, physical appearance, disability, age, race or religion**. We do not tolerate any behavior that is degrading to any gender, race, sexual orientation, or disability, or any behavior that would be deemed harassment or discrimination. Individuals are responsible for knowing and abiding by our standards and we encourage everyone to assist in creating a welcoming and safe environment. 
-Please report any concerns, suspicious or disruptive activity or behavior to the organizing team, so that we can address the issue immediately.
+이벤트 운영 경험이 풍부한 주최자/진행자로서, 우리는 **모두에게, 성별, 성적 지향, 외모, 장애, 연령, 인종, 종교 등과 상관 없이 공손하고 친근하고 전문가적인 경험을 제공하기 위한** 방법을 찾고 있습니다. 우리는 성별, 인종, 성적 지향 또는 장애 등을 비하하는 어떠한 행동도 용납하지 않습니다. 또한 우리는 괴롭힘 혹은 차별로 보일만한 어떠한 행동도 용납하지 않습니다. 이벤트에 참가하는 개개인은 우리가 제안하는 이 행동 강령을 알고 따라야 합니다. 또한 우리는 모두가 좀 더 환대받고 안전한 환경을 만드는 데 도움을 줄 수 있기를 권장합니다.
 
-## Our Values
+만약 어떤 걱정이나 의심스런 행동, 파괴적인 행동을 보셨다면 저희 운영팀에 연락을 해 주세요. 그렇게 하면 즉시 해당 이슈를 조치하도록 하겠습니다.
 
-Throughout each interaction, we aspire to embody and champion the below values: 
+## 우리의 가치
 
-* Be friendly and welcoming
-  * Listen with purpose, create space for others’ communication preferences
-  * Ask yourself how you can make someone else’s life easier
-* Be patient 
-  * Remember that people have varying communication styles and preferences
-  * Recognize that not everyone is using their native language (meaning and tone can be lost in translation)
-* Be thoughtful
-  * Think about how others will interpret your words – productive, clear communication requires effort!
-  * Remember that sometimes it is best to refrain entirely from commenting
-* Be respectful and inclusive
-  * Respect differences of opinion
-  * Seek to build bridges and understand, not condemn, or criticize
-  * Make a conscious effort to include people who differ from you
-* Be open and curious
-  * Assume good intent and interpret others’ statements or questions in good faith
-  * Ask questions to understand, not denounce
-  * Focus on continuous learning - get better at the things you already know, tackle completely new things, and ask others about their expertise to deepen yours
+각각의 활동을 통해 우리는 아래 가치를 구현하고 옹호할 수 있기를 염원합니다:
 
-In summary:
+* 친근하고 환영하는 분위기를 만들어 주세요
+  * 의도적으로 경청하고 다른 사람들의 소통 방식을 존중하는 공간을 만들어 주세요
+  * 당신이 다른 사람들의 삶을 어떻게 하면 좀 더 쉽게 만들 수 있는지 스스로에게 물어보세요
+* 상대방을 기다려 주세요
+  * 사람들은 저마다 다른 소통 방식과 선호도를 갖고 있다는 점을 기억하세요
+  * 모든 사람이 자신의 모국어를 사용하고 있지 않을 수도 있다는 점을 기억해 주세요 (말투라든가 의미가 다른 언어를 사용함으로써 왜곡될 수도 있습니다)
+* 상대방을 배려해 주세요
+  * 다른 사람들이 당신의 말을 어떻게 해석하는지 생각해 보세요 &ndash; 생산적이고 명료한 소통은 노력을 해야만 가능합니다!
+  * 가끔은 굳이 코멘트를 남기지 않는 것이 최상의 방식일 수도 있다는 것을 기억하세요
+* 상대방을 존중하고 포함해 주세요
+  * 나와는 다른 의견이라고 하더라도 존중해 주세요
+  * 상대방의 의견을 비판 또는 비난하기 보다는 이해하고 연결 고리를 찾아보세요
+  * 당신과 다른 사람들을 포용할 수 있게끔 의식적으로 노력해 보세요
+* 개방적이고 관심을 가져 주세요
+  * 상대방의 말이나 질문이 좋은 의도로 이루어졌다는 점을 가정하고 해석해 보세요
+  * 상대방을 비난하기 위한 질문이 아닌 이해하려는 질문을 해 보세요
+  * 우리가 뭔가를 꾸준히 배울 수 있다는 점에 집중하세요 &ndash; 이미 알고 있는 거라면 더 개선 시킬 수 있는 부분, 새로운 것이라면 알아가는 것이 분명히 있을 겁니다. 그리고 그들의 경험으로부터 당신을 단련시킬 수 있는 것들에 대해 물어보세요
 
-* Treat everyone with respect, kindness, and empathy.
-* Use welcoming and inclusive language.
-* Be thoughtful in how you communicate in person and online. 
-* Don’t be destructive or inflammatory. 
-* Gracefully accept constructive criticism.
-* Listen with purpose, create space for others’ communication preferences; honor them by shifting yours to accommodate.
-* Reach out to the organizers if you need anything at all!
+요약하자면:
+
+* 모든 사람들에게 공손하고 친절하세요. 그리고 공감해 주세요.
+* 환영하고 포용하는 표현을 사용해 주세요.
+* 온라인 오프라인에서 상대방과 소통할 때 상대방을 배려해 주세요.
+* 파괴적이고 상대방을 자극하는 행동을 삼가해 주세요.
+* 건설적인 비판은 우아하게 받아들여 주세요.
+* 의도적으로 경청하고 다른 사람들의 소통 방식을 존중하는 공간을 만들어 주세요. 당신의 관점을 조금만 바꾸면 상대방을 존중할 수 있습니다.
+* 만약 뭔가가 필요하다면 행사 운영진에게 연락하세요!
