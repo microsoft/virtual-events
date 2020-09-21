@@ -10,8 +10,8 @@
     * 감정 노동이 다양한 위원들에게 집중되지 않도록 하고 팀 전체에 분산되도록 합니다. 이것은 모두의 책임입니다!
   * 객관적이고 포용적인 Call For Proposals(CFP) 절차 (해당하는 경우).
     * 다음 기존 리소스를 사용하여 다양한 그룹에 연설 기회를 홍보하십시오.
-      * Microsoft 다양성 그룹 – 주요 연락처 : [Microsoft의 아시안 그룹](mailto : dili@microsoft.com), [Microsoft의 흑인 그룹](mailto : melindm@microsoft.com), [Microsoft의 장애인 그룹](mailto : andypalm @ microsoft.com), [Microsoft의 아프리카인 그룹](mailto : jomusamb@microsoft.com), [Microsoft의 LGBTQI 그룹](mailto : nboyd@microsoft.com), [Microsoft의 히스패닉계 그룹](mailto : dimarti@microsoft.com), [Microsoft의 군인](mailto : brhuntin@microsoft.com), [Microsoft의 가족들](mailto : jestum@microsoft.com) 및 [Microsoft의 여성들](mailto : kath@microsoft.com).
-      * LinkedIn 그룹 : [Black Girls Code](https://www.linkedin.com/company/black-girls-code/people/), [ChickTech](https://www.linkedin.com/company/chicktech/ people /), [TSW (Tech Savvy Women)](https://www.linkedin.com/groups/124180/), [Women Who Tech](https://www.linkedin.com/company/women-who -tech /), [Tech Network의 Black Professionals](https://www.linkedin.com/company/bptn/), [Girls Who Code](https://www.linkedin.com/school/girlswhocode/) , [Rails Girls](https://www.linkedin.com/company/rails-girls/), [Django Girls](https://www.linkedin.com/company/django-girls/), [PyLadies](https://www.linkedin.com/groups/3984711/), [Lesbians Who Tech + Allies](https://www.linkedin.com/company/lesbians-who-tech/).
+      * Microsoft 다양성 그룹 – 주요 연락처 : [Microsoft의 아시안 그룹](mailto:dili@microsoft.com), [Microsoft의 흑인 그룹](mailto:melindm@microsoft.com), [Microsoft의 장애인 그룹](mailto:andypalm@microsoft.com), [Microsoft의 아프리카인 그룹](mailto:jomusamb@microsoft.com), [Microsoft의 LGBTQI 그룹](mailto:nboyd@microsoft.com), [Microsoft의 히스패닉계 그룹](mailto:dimarti@microsoft.com), [Microsoft의 군인](mailto:brhuntin@microsoft.com), [Microsoft의 가족들](mailto:jestum@microsoft.com) 및 [Microsoft의 여성들](mailto:kath@microsoft.com).
+      * LinkedIn 그룹 : [Black Girls Code](https://www.linkedin.com/company/black-girls-code/people/), [ChickTech](https://www.linkedin.com/company/chicktech/people/), [TSW (Tech Savvy Women)](https://www.linkedin.com/groups/124180/), [Women Who Tech](https://www.linkedin.com/company/women-who-tech/), [Tech Network의 Black Professionals](https://www.linkedin.com/company/bptn/), [Girls Who Code](https://www.linkedin.com/school/girlswhocode/) , [Rails Girls](https://www.linkedin.com/company/rails-girls/), [Django Girls](https://www.linkedin.com/company/django-girls/), [PyLadies](https://www.linkedin.com/groups/3984711/), [Lesbians Who Tech + Allies](https://www.linkedin.com/company/lesbians-who-tech/).
       * 지역에 따라, 다음은 추가 발표자를 구할 수 있는 리소스입니다. [Speakerinnen](https://speakerinnen.org/), [Speakabled](https://www.speakabled.com/), [Women Speaker Foundation (DE 만 해당) ](https://women-speaker-foundation.jimdo.com/). 
   * 다음 예제 지침을 사용하여 다양한 발표자와 참가자를 선택하고 지원하십시오.
       * 여러 세션에 제출할 기회를 주거나 제출한 내용을 재작성하고 재평가 할 수 있도록 합니다.
@@ -26,7 +26,7 @@
 **2) 주요 계획 작업이 시작되면 적극적이고 공개적으로 오픈된 행동 강령을 시행합니다.**
 
   * 이벤트 전 :
-    * [여기](https://github.com/jennymevents/virtual-events/blob/main/virtual-event-code-of-conduct.md)에서 오픈 소스 리소스를 찾아보세요.
+    * [여기](virtual-event-code-of-conduct.md)에서 오픈 소스 리소스를 찾아보세요.
     * 행동 강령을 사이트 하단뿐만 아니라 메인이벤트 페이지에 나열하십시오. 행동 강령은 시간 내에 이루어지는 이벤트뿐만 아니라 시간 외 이벤트, 소셜 미디어 게시물 그리고 컨퍼런스 및 참석자와 관련된 모든 이벤트 및 / 커뮤니티에도 적용됩니다.
     * 참조를 추가하고 등록 양식에 체크 표시를 읽으십시오.
     * 등록을 신청할 때, 사람들에게 다음의 항목들에 대해 선호하는 것을 선택할 수 있도록 하십시오 - 선호하는 대명사 (호명되는 성별에 대한 선택지 제공 She, He, They 등), 식이요법, 신체적 정신적 요구 사항, 알레르기 및 기타 필요한 식별자 등 
