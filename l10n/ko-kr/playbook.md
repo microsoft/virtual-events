@@ -26,9 +26,9 @@
 
 
 널리 사용되고 널리 사용되는 예는 다음과 같습니다.
-* [Meetup](https://www.meetup.com) : Meetup을 통해 워크숍, 프레젠테이션, 네트워킹 이벤트를 제공합니다. Meetup에는 많은 사용자와 이벤트에 대한 수요를 늘리는 데 활용할 수 있는 활동적인 사용자 커뮤니티가 있습니다.
-* [Eventbrite](https://www.eventbrite.com/l/online-event-resources/?mkwid=UtKYFHIu_dc&pcrid=79989571666430&pkw=eventbrite&pmt=be&plc&_bk=eventbrite&_bt=79989571666430&_bm=e&_bn=o&msclkid=ab20c0317bbb173229d69eeff0c24676&utm_source=bing&utm_medium=cpc&utm_campaign=Croud_US_SEM_EN_Brand%20Core_Exact&utm_term=eventbrite&utm_content=Core&gclid=CNiW_an08ukCFYNjfgodDK0O6A&gclsrc=ds) : 이벤트 호스팅 및 등록을 위한 소셜 플랫폼입니다. 가장 인기있는 Meetup 대안 중 하나입니다. 이벤트를 만들고 가격 및 실행계획을 설정한 다음 다른 소셜 미디어 플랫폼에서 공유하는 쉽고 빠른 방법입니다. 청중은 Eventbrite에서 검색을 통해 사용하여 이벤트를 찾을 수 있지만 그래도 주최자가 참여자를 모으는 이벤트 홍보에 적극적으로 참여해야 합니다.
-* [LinkedIn 이벤트](https://www.linkedin.com/help/linkedin/answer/98189/linkedin-events-overview?lang=en) : LinkedIn 회원 및 페이지 소유자는 LinkedIn 이벤트 기능을 사용하여 커뮤니티를 구축하고, 다양한 이벤트에 대한 관심을 불러 일으키고 커뮤니티 구성원과 장기적인 관계를 만들 수 있습니다.
+* [Meetup](https://www.meetup.com/) : Meetup을 통해 워크숍, 프레젠테이션, 네트워킹 이벤트를 제공합니다. Meetup에는 많은 사용자와 이벤트에 대한 수요를 늘리는 데 활용할 수 있는 활동적인 사용자 커뮤니티가 있습니다.
+* [Eventbrite](https://www.eventbrite.com/l/online-event-resources/) : 이벤트 호스팅 및 등록을 위한 소셜 플랫폼입니다. 가장 인기있는 Meetup 대안 중 하나입니다. 이벤트를 만들고 가격 및 실행계획을 설정한 다음 다른 소셜 미디어 플랫폼에서 공유하는 쉽고 빠른 방법입니다. 청중은 Eventbrite에서 검색을 통해 사용하여 이벤트를 찾을 수 있지만 그래도 주최자가 참여자를 모으는 이벤트 홍보에 적극적으로 참여해야 합니다.
+* [LinkedIn 이벤트](https://www.linkedin.com/help/linkedin/answer/98189/linkedin-events-overview) : LinkedIn 회원 및 페이지 소유자는 LinkedIn 이벤트 기능을 사용하여 커뮤니티를 구축하고, 다양한 이벤트에 대한 관심을 불러 일으키고 커뮤니티 구성원과 장기적인 관계를 만들 수 있습니다.
 * [SplashThat](https://splashthat.com/) : 이벤트와 관련된 다양한 것들을 하나의 플랫폼에서 측정, 관리, 마케팅하려는 기업 및 조직을 대상으로 하는 이벤트 마케팅 및 등록 사이트입니다.
 
 **수요 창출** : 성공적인 수요 창출 전략은 사람들이 이벤트에 등록하고 참석하도록 유도합니다. 여기서 이벤트는 나중에 오거나이저의 활동(또는 콘텐츠)에 참여하도록 동기를 부여하는 놀라운 경험을 제공합니다. 이러한 청중과 오거나이저 양쪽이 만나는 긍정적인 경험은 향후 이벤트에 참석하고 친구 및 동료와 공유하려는 성향을 높입니다.
@@ -122,7 +122,7 @@
 
 간단한 정보들:
 
-* 접근성 : Miccrosoft Teams live 이벤트 자막에서 지원되는 언어 (2020 년 4 월 20 일 기준 : 아랍어, 중국어, 체코 어, 덴마크어, 네덜란드어, 영어, 프랑스어, 독일어, 그리스어, 히브리어, 헝가리어, 인도네시아어, 이탈리아어, 일본어, 한국어, 노르웨이어 보크 말) , 폴란드어, 포르투갈어, 루마니아어, 러시아어, 스페인어, 스웨덴어, 태국어, 터키어 및 베트남어)
+* 접근성 : Microsoft Teams live 이벤트 자막에서 지원되는 언어 (2020 년 4 월 20 일 기준 : 아랍어, 중국어, 체코 어, 덴마크어, 네덜란드어, 영어, 프랑스어, 독일어, 그리스어, 히브리어, 헝가리어, 인도네시아어, 이탈리아어, 일본어, 한국어, 노르웨이어 보크 말) , 폴란드어, 포르투갈어, 루마니아어, 러시아어, 스페인어, 스웨덴어, 태국어, 터키어 및 베트남어)
 * 길이 : 4 시간
 * 수용 인원 : 최대 10,000 명
 * 참석자 경험 : 제한된 실행 양식 (실시간 또는 방송) 및 제한된 참석자 참여 경험 (조정 된 텍스트를 통해서만 참여)
@@ -161,7 +161,7 @@
 
  * [SplashThat](https://splashthat.com/) : 브랜드 방문 페이지, 이벤트 등록, 일정, 발표자 프로필, 확인 이메일, 게스트 목록 관리 및 이벤트 체크인이 포함된 전체 이벤트 웹사이트 / 도메인이 가능합니다. 화면 구석에 Splash 로고 노출이 되는 상태로 무료버전 사용 가능합니다.
  * [Meetup](https://www.meetup.com/pro/microsoft-reactor/) : 이미 그룹을 생성한 경우 이벤트 생성에 적합합니다. 카테고리를 기반으로 쉽게 검색 할 수 있으며 현재 모임 그룹에 속한 사람들에게 쉽게 연락 할 수 있습니다.
- * [Eventbrite](https://www.eventbrite.com/l/online-event-resources/?mkwid=UtKYFHIu_dc&pcrid=79989571666428&pkw=eventbrite&pmt=be&plc&_bk=eventbrite&_bt=79989571666428&_bm=e&_bn=o&msclkid=16cbfaf5116a158b929ea4073a71ab93&utm_source=bing&utm_medium=cpc&utm_campaign=Croud_US_SEM_EN_Brand%20Core_Exact&utm_term=eventbrite&utm_content=Core&gclid=CI3NmpOrmOoCFYQLfwodr-UPgA&gclsrc=ds) : 맞춤화된 등록 옵션이 있는 단일 이벤트 목록 페이지입니다. Eventbrite 웹사이트 검색을 통해 쉽게 찾을 수 있습니다. 무료 이벤트에는 관리자 수수료가 없습니다.
+ * [Eventbrite](https://www.eventbrite.com/l/online-event-resources/) : 맞춤화된 등록 옵션이 있는 단일 이벤트 목록 페이지입니다. Eventbrite 웹사이트 검색을 통해 쉽게 찾을 수 있습니다. 무료 이벤트에는 관리자 수수료가 없습니다.
 
  **3단계 : 비하인더 씬 제작**
 
@@ -193,6 +193,7 @@
 
 
 ## 추가 Non-Microosft 참고자료
+
 * 3P article on using Teams for virtual labs and hackathons [(link)](https://www.robertjgates.com/use-microsoft-teams-to-run-a-virtual-lab-or-virtual-hackathon-event/)
 * Meetup.com blog on hosting online events [(link)](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/)
 * Live streaming set up from Jeff Fritz [(link)](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/) and James Montemagno [(link)](https://gist.github.com/jamesmontemagno/72f513bff91678b2c0130a4427f21f0d)

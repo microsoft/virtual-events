@@ -2,9 +2,11 @@
 # 포용적인 컨퍼런스 준비 절차를 만드는 방법
 
 ## 목적
+
 포용적인 컨퍼런스 경험은 포용적이고 다양성이 고려된 컨퍼런스 준비 절차에서 시작되어야 합니다. 이는 다양한 관점을 장려하고, 목소리를 높이고, 혁신을 증가시키고, 이벤트 경험에서 더 많은 결과를 만들 수 있는 기회입니다.
 
 ## 기본
+
 **1) 포용적 경험은 처음부터 의도적으로 만들어집니다.**
   * 이벤트를 조직하는 다양한 기획 위원회를 두십시오. 준비 과정에서 다양한 관점을 확보하여 간과되거나 잊은 부분이 없도록 하십시오.
     * 감정 노동이 다양한 위원들에게 집중되지 않도록 하고 팀 전체에 분산되도록 합니다. 이것은 모두의 책임입니다!
@@ -12,7 +14,7 @@
     * 다음 기존 리소스를 사용하여 다양한 그룹에 연설 기회를 홍보하십시오.
       * Microsoft 다양성 그룹 – 주요 연락처 : [Microsoft의 아시안 그룹](mailto:dili@microsoft.com), [Microsoft의 흑인 그룹](mailto:melindm@microsoft.com), [Microsoft의 장애인 그룹](mailto:andypalm@microsoft.com), [Microsoft의 아프리카인 그룹](mailto:jomusamb@microsoft.com), [Microsoft의 LGBTQI 그룹](mailto:nboyd@microsoft.com), [Microsoft의 히스패닉계 그룹](mailto:dimarti@microsoft.com), [Microsoft의 군인](mailto:brhuntin@microsoft.com), [Microsoft의 가족들](mailto:jestum@microsoft.com) 및 [Microsoft의 여성들](mailto:kath@microsoft.com).
       * LinkedIn 그룹 : [Black Girls Code](https://www.linkedin.com/company/black-girls-code/people/), [ChickTech](https://www.linkedin.com/company/chicktech/people/), [TSW (Tech Savvy Women)](https://www.linkedin.com/groups/124180/), [Women Who Tech](https://www.linkedin.com/company/women-who-tech/), [Tech Network의 Black Professionals](https://www.linkedin.com/company/bptn/), [Girls Who Code](https://www.linkedin.com/school/girlswhocode/) , [Rails Girls](https://www.linkedin.com/company/rails-girls/), [Django Girls](https://www.linkedin.com/company/django-girls/), [PyLadies](https://www.linkedin.com/groups/3984711/), [Lesbians Who Tech + Allies](https://www.linkedin.com/company/lesbians-who-tech/).
-      * 지역에 따라, 다음은 추가 발표자를 구할 수 있는 리소스입니다. [Speakerinnen](https://speakerinnen.org/), [Speakabled](https://www.speakabled.com/), [Women Speaker Foundation (DE 만 해당) ](https://women-speaker-foundation.jimdo.com/). 
+      * 지역에 따라, 다음은 추가 발표자를 구할 수 있는 리소스입니다. [Speakerinnen](https://speakerinnen.org/), [Speakabled](https://www.speakabled.com/), [Women Speaker Foundation (DE 만 해당)](https://women-speaker-foundation.jimdo.com/). 
   * 다음 예제 지침을 사용하여 다양한 발표자와 참가자를 선택하고 지원하십시오.
       * 여러 세션에 제출할 기회를 주거나 제출한 내용을 재작성하고 재평가 할 수 있도록 합니다.
       * 발표자의 인기와 명성보다는, 콘텐츠를 기반으로 하며 이름을 밝히지 않는 제출 방식을 선택하십시오. 제출 목록이 최종에 가까워지면 제출자를 검토하여 멘토링 필요 여부, 마케팅 범위를 결정하고 지식과 배경을 검증합니다.
